@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm eriillvlrk28206
 
-<!--
-**eriillvlrk28206/eriillvlrk28206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ 🎭 🛹 🎮 Addicted to open source ✨ 🎭 🛹 🎮
 
-Here are some ideas to get you started:
+## About Me
+🥊 🛼 🥊 🎯 Ready to work on system programming 🥊 🛼 🥊 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎳 🏸 Looking to collaborate on algorithms 🎳 🏸
+
+### Fun Facts
+🎣 🎬 A designer in startup culture 🎣 🎬
+
+---
+🏒 🛼 🎪 🎾 🎧 Thanks for visiting my profile! 🎣 💻 🚵 🎭 🎮
